@@ -1,10 +1,3 @@
-# Rock, Paper, Scissors Game
-
-# Example
-# rock - rock = 0
-# rock - paper = -1
-# rock - scissors = -2
-
 import random
 
 hands = ['rock', 'paper', 'scissors']
