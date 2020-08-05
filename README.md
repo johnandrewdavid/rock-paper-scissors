@@ -1,6 +1,6 @@
 Rock, Paper, Scissors game in Python
-
+<br />
 Example:
-rock - rock = 0
-rock - paper = -1
-rock - scissors = -2
+<br /> rock - rock = 0
+<br /> rock - paper = -1
+<br /> rock - scissors = -2
